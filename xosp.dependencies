@@ -10,4 +10,9 @@
   {
     "repository": "proprietary_vendor_xiaomi",
     "target_path": "vendor/xiaomi"
+  },
+  {
+    "repository": "android_external_sony_boringssl-compat",
+    "target_path": "external/sony/boringssl-compat"
+  }  
 ]
