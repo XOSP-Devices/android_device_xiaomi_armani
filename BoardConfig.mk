@@ -150,4 +150,4 @@ TARGET_PROVIDES_WCNSS_QMI := true
 TARGET_USES_QCOM_WCNSS_QMI := true
 
 # inherit from the proprietary version
--include vendor/xiaomi/armani/armani/BoardConfigVendor.mk
+-include vendor/xiaomi-armani/BoardConfigVendor.mk
