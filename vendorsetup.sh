@@ -1,0 +1,2 @@
+add_lunch_combo xosp_armani-userdebug
+add_lunch_combo xosp_armani-eng
