@@ -1,6 +1,22 @@
 [
-  {
-    "repository": "proprietary_vendor_xiaomi",
+ {
+    "remote": "XOSPD",
+    "revision": "xosp-n",
+    "repository": "XOSP-Devices/proprietary_vendor_xiaomi",
     "target_path": "vendor/xiaomi"
+  },
+  {
+    "remote": "XOSPD",
+    "revision": "xosp-n-rebase",
+    "repository": "XOSP-Project/android_device_qcom_common",
+    "target_path": "device/qcom/common"
+  },
+  {
+    "remote": "XOSPD",
+    "revision": "cm-14.x",
+    "repository": "XOSP-Devices/xiaomi_armani_kernel",
+    "target_path": "kernel/xiaomi/armani"
   }
+  
 ]
+
